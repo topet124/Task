@@ -7,7 +7,6 @@ A full-stack dashboard for managing acquisition targets, built with Next.js 14, 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
 - [File Structure](#file-structure)
 - [API Routes](#api-routes)
 
